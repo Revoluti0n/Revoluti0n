@@ -97,14 +97,12 @@
 </summary>
 <br>
 <p align="center">
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=github_dark&card_width=1000"/>
-</p>
-<a href="https://github.com/Revoluti0n/Revoluti0n">  
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Revoluti0n&theme=github_dark&card_width=480&rank_icon=github" />
-</a>
-<a href="https://github.com/Revoluti0n/Revoluti0n">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revoluti0n&theme=github_dark&layout=compact&langs_count=8&card_width=430" />
-</a> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revoluti0n&theme=github_dark&layout=compact&langs_count=8&card_width=1010"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Revoluti0n&theme=github_dark&rank_icon=github&card_width=1010"/>
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=github_dark&card_width=1010"/>
+</p> 
 </details>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRevoluti0n1212%2Fhit-counter"/>
 <!-- AUTO-GENERATED-CONTENT:END -->
