@@ -1,8 +1,8 @@
 <p align="center">
 	<a href="https://github.com/Revoluti0n">
-    	<img src="https://readme-typing-svg.demolab.com/?lines=Kelvyn+Xavier&font=Fira%20Code&center=true&size=15&width=400&height=30&duration=4000&pause=500&repeat=false&color=DD914E" alt="kelvyn_xavier"/>
+    	<img alt="Kelvyn Xavier" src="https://readme-typing-svg.demolab.com/?lines=Kelvyn+Xavier&font=Fira%20Code&center=true&size=15&width=400&height=30&duration=4000&pause=500&repeat=false&color=DD914E"/>
       	<br>
-      	<img src="https://readme-typing-svg.demolab.com/?lines=Hello+darkness,+my+old+friend.;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE" alt="typing_msg">
+      	<img alt="Typing Message" src="https://readme-typing-svg.demolab.com/?lines=Hello+darkness,+my+old+friend.;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE">
 	</a>
 </p>
 
@@ -139,11 +139,11 @@
 
 ## 💻 Workspace
 
-<a href="https://github.com/Revoluti0n"><img alt="OS1" src="https://img.shields.io/badge/windows-%23004ee0.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="OS2" src="https://img.shields.io/badge/linux-%23D77C1C.svg?&style=for-the-badge&logo=linux&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="CPU" src="https://img.shields.io/badge/intel-core%20i9%209900K%209th%20OC%205.0GHz-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="RAM" src="https://img.shields.io/badge/RAM-32GB-%23E01935.svg?&style=for-the-badge&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX3700-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="OS1" src="https://img.shields.io/badge/Windows-%23004ee0.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="OS2" src="https://img.shields.io/badge/Linux-%23D77C1C.svg?&style=for-the-badge&logo=linux&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="CPU" src="https://img.shields.io/badge/Intel%20Core%20i9%209900K%20OC%205.0GHz-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="RAM" src="https://img.shields.io/badge/32GB%20RAM-%23E01935.svg?&style=for-the-badge&logo=corsair&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA%20RTX3700-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
 ## 📊 Statistics
 
@@ -182,7 +182,7 @@
 </details>
 <a href="https://github.com/Revoluti0n"><img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRevoluti0n1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%2369A6DC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/Revoluti0n?logo=star&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/Revoluti0n?logo=followers&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/Revoluti0n?logo=people&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Github Streak" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DRevoluti0n%26type%3Djson&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Total Contributions" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=FFFFFF&color=7dc447&labelColor=6aa2d3&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DRevoluti0n%26type%3Djson"/></a>
 
@@ -207,7 +207,7 @@
 
 <details> 
 	<summary>
-    	Show the static text
+    	Show static text
 	</summary>
 	<br>
 
@@ -215,21 +215,21 @@ I have worked with Python for several years, and it has been my language of choi
 
 I have experience with databases/DBMS, including SQL (MySQL, MariaDB, PostgreSQL, SQLAlchemy, SQLite) and NoSQL (MongoDB/MongoDB Compass, Redis). I designed, developed, and maintained databases for various projects. This experience has helped me understand how to effectively manage data and extract insights using various data science tools.
 
-In the field of data science, I have knowledge in R and some of its libraries like Tidyverse, plotly, and flexdashboard. In Python, I briefly used PySpark API and extensively worked with libraries such as pandas, NumPy, SciPy, seaborn and Matplotlib to manipulate, analyze, and visualize data. I worked on projects involving advanced data analysis, including predictive modeling and statistical analysis, and these libraries have been instrumental in delivering high-quality results.
+In the field of data science, I have knowledge of R and some of its libraries like Tidyverse, Plotly, and Flexdashboard. In Python, I briefly used PySpark API and extensively worked with libraries such as pandas, NumPy, SciPy, seaborn and Matplotlib to manipulate, analyze, and visualize data. I worked on projects involving advanced data analysis, including predictive modeling and statistical analysis, and these libraries have been instrumental in delivering high-quality results.
 
-I am also proficient in data visualization software like Tableau and Microsoft Power BI and have experience in designing and developing dashboards for business intelligence, which was the subject of my final paper. I believe that effective data visualization is crucial for presenting insights in a clear and concise manner, and my knowledge of these tools has helped me achieve this goal.
+I am also proficient in data visualization software like Tableau and Microsoft Power BI and have experience in designing and developing dashboards for business intelligence, which was the subject of my final paper. Effective data visualization is crucial for presenting insights in a clear and concise manner, and my knowledge of these tools has helped me achieve this goal.
 
 I have basic knowledge in C/C++ and am currently exploring other languages like JavaScript, frameworks like Django and Flask, Microsoft Azure cloud platform, and containerization tools like Docker and Kubernetes. In the pipeline, I plan to learn Node.js, React, AWS, Rust programming language, and messaging services like RabbitMQ and Kafka.
 
-Finally, my engineering background has provided me with a solid foundation in mathematics and programming logic. I have always sought to use my engineering knowledge to solve complex problems, and programming has been an excellent tool for me to do so.
+My engineering background has provided me with a solid foundation in mathematics and programming logic. I have always sought to use my engineering knowledge to solve complex problems, and programming has been an excellent tool for me to do so.
 
-In summary, I bring extensive experience in Python, object-oriented programming, software development life cycle, programming logic, database structures, data science libraries, data visualization software, data mining and analysis. I am always seeking to learn and grow, and I believe my skills can be a valuable asset to any team looking to develop software, automate processes, or gain data-driven insights.
+Finally, I bring extensive experience in Python, object-oriented programming, software development life cycle, database structures, programming logic, data science libraries, data visualization software, data mining, and analysis. I am always seeking to learn and grow, and I believe my skills can be a valuable asset to any team looking to develop software, automate processes, or gain data-driven insights.
 
 </details>
 
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&color=ffa657&multiline=true&repeat=false&width=1330&height=550&lines=I+have+worked+with+Python+for+several+years%2C+and+it+has+been+my+language+of+choice+for+software+development%2C+data+collection%2C+data+analysis%2C+and;machine+learning+projects.+Besides+Python%2C+I+also+used+VBA+for+automation+tasks.+Throughout+this+journey%2C+I+learned+how+to+leverage+the+power+of;object-oriented+programming+to+write+scalable%2C+sustainable%2C+and+reusable+code.;+;I+have+experience+with+databases%2FDBMS%2C+including+SQL+(MySQL%2C+MariaDB%2C+PostgreSQL%2C+SQLAlchemy%2C+SQLite)+and+NoSQL+(MongoDB%2FMongoDB+Compass%2C+Redis).;I+designed%2C+developed%2C+and+maintained+databases+for+various+projects.+This+experience+has+helped+me+understand+how+to+effectively+manage+data+and;extract+insights+using+various+data+science+tools.;+;In+the+field+of+data+science%2C+I+have+knowledge+in+R+and+some+of+its+libraries+like+Tidyverse%2C+plotly%2C+and+flexdashboard.+In+Python%2C+I+briefly+used;PySpark+API+and+extensively+worked+with+libraries+such+as+pandas%2C+NumPy%2C+SciPy%2C+seaborn+and+Matplotlib+to+manipulate%2C+analyze%2C+and+visualize+data.;I+worked+on+projects+involving+advanced+data+analysis%2C+including+predictive+modeling+and+statistical+analysis%2C+and+these+libraries+have+been;instrumental+in+delivering+high-quality+results.;+;I+am+also+proficient+in+data+visualization+software+like+Tableau+and+Microsoft+Power+BI+and+have+experience+in+designing+and+developing+dashboards;for+business+intelligence%2C+which+was+the+subject+of+my+final+paper.+I+believe+that+effective+data+visualization+is+crucial+for+presenting+insights;in+a+clear+and+concise+manner%2C+and+my+knowledge+of+these+tools+has+helped+me+achieve+this+goal.;+;I+have+basic+knowledge+in+C%2FC%2B%2B+and+am+currently+exploring+other+languages+like+JavaScript%2C+frameworks+like+Django+and+Flask%2C+Microsoft+Azure+cloud;platform%2C+and+containerization+tools+like+Docker+and+Kubernetes.+In+the+pipeline%2C+I+plan+to+learn+Node.js%2C+React%2C+AWS%2C+Rust+programming+language%2C;and+messaging+services+like+RabbitMQ+and+Kafka.;+;Finally%2C+my+engineering+background+has+provided+me+with+a+solid+foundation+in+mathematics+and+programming+logic.+I+have+always+sought+to+use+my;engineering+knowledge+to+solve+complex+problems%2C+and+programming+has+been+an+excellent+tool+for+me+to+do+so.;+;In+summary%2C+I+bring+extensive+experience+in+Python%2C+object-oriented+programming%2C+software+development+life+cycle%2C+programming+logic%2C+database;structures%2C+data+science+libraries%2C+data+visualization+software%2C+data+mining+and+analysis.+I+am+always+seeking+to+learn+and+grow%2C+and+I+believe+my;skills+can+be+a+valuable+asset+to+any+team+looking+to+develop+software%2C+automate+processes%2C+or+gain+data-driven+insights.)](https://git.io/typing-svg" alt="typing_msg">
+	<img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&color=ffa657&multiline=true&repeat=false&width=1330&height=550&lines=I+have+worked+with+Python+for+several+years%2C+and+it+has+been+my+language+of+choice+for+software+development%2C+data+collection%2C+data+analysis%2C+and;machine+learning+projects.+Besides+Python%2C+I+also+used+VBA+for+automation+tasks.+Throughout+this+journey%2C+I+learned+how+to+leverage+the+power+of;object-oriented+programming+to+write+scalable%2C+sustainable%2C+and+reusable+code.;+;I+have+experience+with+databases%2FDBMS%2C+including+SQL+(MySQL%2C+MariaDB%2C+PostgreSQL%2C+SQLAlchemy%2C+SQLite)+and+NoSQL+(MongoDB%2FMongoDB+Compass%2C+Redis).;I+designed%2C+developed%2C+and+maintained+databases+for+various+projects.+This+experience+has+helped+me+understand+how+to+effectively+manage+data+and;extract+insights+using+various+data+science+tools.;+;In+the+field+of+data+science%2C+I+have+knowledge+of+R+and+some+of+its+libraries+like+Tidyverse%2C+Plotly%2C+and+Flexdashboard.+In+Python%2C+I+briefly+used;PySpark+API+and+extensively+worked+with+libraries+such+as+pandas%2C+NumPy%2C+SciPy%2C+seaborn+and+Matplotlib+to+manipulate%2C+analyze%2C+and+visualize+data.;I+worked+on+projects+involving+advanced+data+analysis%2C+including+predictive+modeling+and+statistical+analysis%2C+and+these+libraries+have+been;instrumental+in+delivering+high-quality+results.;+;I+am+also+proficient+in+data+visualization+software+like+Tableau+and+Microsoft+Power+BI+and+have+experience+in+designing+and+developing+dashboards;for+business+intelligence%2C+which+was+the+subject+of+my+final+paper.+Effective+data+visualization+is+crucial+for+presenting+insights+in+a+clear+and;concise+manner%2C+and+my+knowledge+of+these+tools+has+helped+me+achieve+this+goal.;+;I+have+basic+knowledge+in+C%2FC%2B%2B+and+am+currently+exploring+other+languages+like+JavaScript%2C+frameworks+like+Django+and+Flask%2C+Microsoft+Azure+cloud;platform%2C+and+containerization+tools+like+Docker+and+Kubernetes.+In+the+pipeline%2C+I+plan+to+learn+Node.js%2C+React%2C+AWS%2C+Rust+programming+language%2C;and+messaging+services+like+RabbitMQ+and+Kafka.;+;My+engineering+background+has+provided+me+with+a+solid+foundation+in+mathematics+and+programming+logic.+I+have+always+sought+to+use+my+engineering;knowledge+to+solve+complex+problems%2C+and+programming+has+been+an+excellent+tool+for+me+to+do+so.;+;Finally%2C+I+bring+extensive+experience+in+Python%2C+object-oriented+programming%2C+software+development+life+cycle%2C+database+structures%2C+programming;logic%2C+data+science+libraries%2C+data+visualization+software%2C+data+mining%2C+and+analysis.+I+am+always+seeking+to+learn+and+grow%2C+and+I+believe+my;skills+can+be+a+valuable+asset+to+any+team+looking+to+develop+software%2C+automate+processes%2C+or+gain+data-driven+insights.">
 </p>
  
 ## 📫 Contact me
@@ -239,6 +239,13 @@ In summary, I bring extensive experience in Python, object-oriented programming,
 <a href="https://instagram.com/kelvynxavier"><img src="https://img.shields.io/badge/-Kelvyn%20Xavier-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.google.com/maps/place/Florian%C3%B3polis,+SC/@-27.5715955,-48.4702792,10z/data=!3m1!4b1!4m6!3m5!1s0x9527394eb2c632d7:0x81bc550b6a04c746!8m2!3d-27.5948036!4d-48.5569286!16s%2Fg%2F11bc6xlppd?entry=ttu"><img src="https://custom-icon-badges.demolab.com/badge/Florianópolis,_SC-BR-5fa55c?style=for-the-badge&logo=location&logoColor=white"/></a>
 
+---
+
+<p align="center">
+	<a href="https://github.com/Revoluti0n">
+		<img alt="Bye darkness, my old friend." src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=4000&pause=50&color=79C1FE&width=1010&height=50&lines=01000010+01111001+01100101;01100100+01100001+01110010+01101011+01101110+01100101+01110011+01110011+00101100;01101101+01111001;01101111+01101100+01100100;01100110+01110010+01101001+01100101+01101110+01100100+00101110">
+	</a>
+</p>
 
 
 
