@@ -157,9 +157,6 @@
     </a>
 </div>
 
-<!-- Configurar wakatime e ativar: -->
-<!-- https://github-readme-stats.vercel.app/api/wakatime?username=Revoluti0n&layout=compact -->
-
 <details>
 	<summary>
     	Show more statistics
@@ -169,10 +166,12 @@
     	<a href="https://github.com/Revoluti0n">
         	<p align="center">
             	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=github_dark&card_width=1010"/>
-				<!-- For non-compact model
-                <br>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluti0n&theme=github_dark&card_width=1010"/>
-				-->
+		<!-- For non-compact model
+		<br>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluti0n&theme=github_dark&card_width=1010"/>
+		-->
+		<br>
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Revoluti0n&theme=github_dark&layout=compact&card_width=1010"/>
                 <br>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revoluti0n&theme=github_dark&layout=compact&langs_count=8&card_width=1010"/>
                 <br>
