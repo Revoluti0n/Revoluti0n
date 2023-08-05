@@ -252,5 +252,4 @@ Finally, I bring extensive experience in Python, object-oriented programming, so
 	</a>
 </p>
 
-
-
+<!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
