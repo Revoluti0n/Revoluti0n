@@ -79,7 +79,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="SQLAlchemy" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/></a>
 
 ```python
-🠊 Frameworks | Libraries | APIs
+🠊 Frameworks | Libraries
 ```
 
 <a href="https://github.com/Revoluti0n"><img alt="Django" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/></a>
@@ -99,11 +99,9 @@
 <a href="https://github.com/Revoluti0n"><img alt="Pytest" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Unittest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2cf06c76-b2c4-4245-a020-dab71c1c95dc" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Doctest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2bc56569-08a9-46cf-a45b-781f35b0e4e1" width="40" height="40"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Swagger API" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d1248b40-c418-4651-a0d5-28c0d8cff274" width="40" height="40"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Discord.py" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/ace89ff5-95de-4d50-a6d7-1e341381b1d9" width="40" height="40"/></a>
 
 ```python
-🠊 IDEs | Versioning | Cloud Platforms | Event-Driven
+🠊 IDEs | Versioning | Cloud Platforms | Event-Driven | APIs
 ```
 
 <a href="https://github.com/Revoluti0n"><img alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
@@ -115,6 +113,8 @@
 <a href="https://github.com/Revoluti0n"><img alt="Microsoft Azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Azure Functions" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/a61432d2-fe16-424e-b252-4a12a5f59057" width="42" height="45"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="AWS Lambda" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/87617ae7-6e76-49ee-8cbe-5fbb0dae8075" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Swagger API" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d1248b40-c418-4651-a0d5-28c0d8cff274" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Discord.py" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/ace89ff5-95de-4d50-a6d7-1e341381b1d9" width="40" height="40"/></a>
 
 ```python
 🠊 Tools | Productivity | Business Intelligence | Civil Engineering
