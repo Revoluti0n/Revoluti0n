@@ -99,6 +99,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="Pytest" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Unittest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2cf06c76-b2c4-4245-a020-dab71c1c95dc" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Doctest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2bc56569-08a9-46cf-a45b-781f35b0e4e1" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Swagger API" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d1248b40-c418-4651-a0d5-28c0d8cff274" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Discord.py" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/ace89ff5-95de-4d50-a6d7-1e341381b1d9" width="40" height="40"/></a>
 
 ```python
