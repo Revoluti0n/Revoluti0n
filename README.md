@@ -6,6 +6,8 @@
 	</a>
 </p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/75655706/132086807-9e326ab9-ae61-4464-9c3b-8827ea8b0718.png" width="150" height="150"/></p>
+
 <details> 
 	<summary>
 		Display the table of contents 📑
