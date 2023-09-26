@@ -90,6 +90,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Pandas" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/01b05fb5-a188-409b-a0b7-e81599f4b406" width="45" height="45"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Matplotlib" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d359fe82-a8a6-463f-b0e5-9bfbae393325" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Seaborn" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/e7b8c819-6650-4ddf-8821-49160d7c0a10" width="43" height="43"/></a>
@@ -104,7 +105,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="Doctest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2bc56569-08a9-46cf-a45b-781f35b0e4e1" width="40" height="40"/></a>
 
 ```python
-🠊 IDEs | Versioning | CI/CD | Containerization | Cloud Platforms | Event-Driven | APIs
+🠊 IDEs | Versioning | CI/CD | Containerization | IAC | Cloud Platforms | Event-Driven | APIs
 ```
 
 <a href="https://www.jetbrains.com/pt-br/pycharm/"><img alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
@@ -113,10 +114,13 @@
 <a href="https://github.com/"><img alt="GitHub" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/1c7af804-163e-4ea9-a22d-e9c459d79aca" width="40" height="40"/></a>
 <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="42" height="42"/></a>
 <a href="https://about.gitlab.com/"><img alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://docs.docker.com/compose/"><img alt="Docker Compose" src="https://stack.desenvolvedor.expert/appendix/docker/images/compose.png" width="40" height="40"/></a>
-<a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/></a>
+<a href="https://www.terraform.io/"><img alt="Terraform" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
+<a href="https://www.ansible.com/"><img alt="Ansible" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/pt-br/"><img alt="Microsoft Azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/pt/"><img alt="Amazon AWS" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/7c2460b0-258f-4028-85d4-9b793c140143" width="40" height="30"/></a>
 <a href="https://azure.microsoft.com/pt-br/products/functions"><img alt="Azure Functions" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/a61432d2-fe16-424e-b252-4a12a5f59057" width="42" height="45"/></a>
 <a href="https://aws.amazon.com/pt/lambda/"><img alt="AWS Lambda" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/87617ae7-6e76-49ee-8cbe-5fbb0dae8075" width="40" height="40"/></a>
 <a href="https://swagger.io/"><img alt="Swagger API" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d1248b40-c418-4651-a0d5-28c0d8cff274" width="40" height="40"/></a>
