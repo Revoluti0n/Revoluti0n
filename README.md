@@ -105,7 +105,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="Doctest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2bc56569-08a9-46cf-a45b-781f35b0e4e1" width="40" height="40"/></a>
 
 ```python
-🠊 IDEs | Versioning | CI/CD | Containerization | IAC | Cloud Platforms | Event-Driven | APIs
+🠊 IDEs | Versioning | CI/CD | Containerization | IaC | Cloud Platforms | Event-Driven | APIs
 ```
 
 <a href="https://www.jetbrains.com/pt-br/pycharm/"><img alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
