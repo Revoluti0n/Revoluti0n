@@ -155,7 +155,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="OS2" src="https://img.shields.io/badge/Linux-%23D77C1C.svg?&style=for-the-badge&logo=linux&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="CPU" src="https://img.shields.io/badge/Intel%20Core%20i9%209900K%20OC%205.0GHz-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="RAM" src="https://img.shields.io/badge/32GB%20RAM-%23E01935.svg?&style=for-the-badge&logo=corsair&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA%20RTX%203700-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA%20RTX%203090-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
 ## 📊 Statistics
 
