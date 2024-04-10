@@ -98,7 +98,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="Tkinter" src="https://images.pling.com/cache/400x400/img/00/00/50/02/87/1605815/9bf34dd00f27afcbafcee4aaa15213c075e34504e530f45b876be487ce5f5dfea8b7.png" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Qt" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="45" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="PyQt" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/7b96158e-2b12-484c-8050-aedff5679835" width="40" height="40"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Kivy" src="http://excript.com/images/blog/kivy-logo.png" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Kivy" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="KivyMD" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/bed08266-3db6-42ba-a554-2a6bc137d1f3" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Pytest" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Unittest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2cf06c76-b2c4-4245-a020-dab71c1c95dc" width="40" height="40"/></a>
