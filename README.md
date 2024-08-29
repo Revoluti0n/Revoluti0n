@@ -1,20 +1,26 @@
+<a href="https://github.com/Revoluti0n">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00dde4,100:00a5f7&textBg=false&fontAlign=93&fontSize=15&fontAlignY=12&reversal=false&animation=fadeIn&fontColor=8AFFFF&descAlign=60"/>
+</a>
+
+<a href="https://github.com/Revoluti0n">
 <p align="center">
-	<a href="https://github.com/Revoluti0n">
-    	<img alt="Kelvyn Xavier" src="https://readme-typing-svg.demolab.com/?lines=Kelvyn+Xavier&font=Fira%20Code&center=true&size=15&width=400&height=30&duration=4000&pause=500&repeat=false&color=DD914E"/>
-      	<br>
-      	<img alt="Typing Message" src="https://readme-typing-svg.demolab.com/?lines=Hello+darkness,+my+old+friend.;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE">
-	</a>
+    <img alt="Kelvyn Xavier" src="https://readme-typing-svg.demolab.com/?lines=Kelvyn+Xavier&font=Fira%20Code&center=true&size=15&width=400&height=30&duration=4000&pause=500&repeat=false&color=DD914E"/>
+    <br>
+    <img alt="Typing Message" src="https://readme-typing-svg.demolab.com/?lines=Hello+darkness,+my+old+friend.;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE">
 </p>
+</a>
 
+<a href="https://github.com/Revoluti0n">
 <p align="center"><img src="https://user-images.githubusercontent.com/75655706/132086807-9e326ab9-ae61-4464-9c3b-8827ea8b0718.png" width="150" height="150"/></p>
+</a>
 
-<br>
+</br>
 
 <details> 
-	<summary>
-		Display the table of contents 📑
-	</summary>
-	<br>
+    <summary>
+	Display the table of contents 📑
+    </summary>
+    <br>
 
 [`🎯` Areas of Interest](#-areas-of-interest)
 
@@ -26,7 +32,7 @@
 
 [`🔎` About me](#-about-me)
 
-[`📫` Contact me](#-contact-me)
+[`📫` How to reach me](#-how-to-reach-me)
 
 </details>
 
@@ -169,28 +175,29 @@
 </div>
 
 <details>
-	<summary>
-    	Show more statistics
-	</summary>
+    <summary>
+    Show more statistics
+    </summary>
+    <br>
+    <div align="left">
+    <a href="https://github.com/Revoluti0n">
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=github_dark&card_width=1010"/>
+	<!-- For non-compact model
 	<br>
-	<div align="left">
-    	<a href="https://github.com/Revoluti0n">
-        	<p align="center">
-            	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=github_dark&card_width=1010"/>
-		<!-- For non-compact model
-		<br>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluti0n&theme=github_dark&card_width=1010"/>
-		-->
-		<br>
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Revoluti0n&theme=github_dark&layout=compact&card_width=1010"/>
-                <br>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revoluti0n&theme=github_dark&layout=compact&langs_count=8&card_width=1010"/>
-                <br>
-                <img src="https://github-readme-stats.vercel.app/api?username=Revoluti0n&theme=github_dark&rank_icon=github&card_width=1010"/>
-        	</p>
-    	</a>
-	</div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluti0n&theme=github_dark&card_width=1010"/>
+	-->
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Revoluti0n&theme=github_dark&layout=compact&card_width=1010"/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revoluti0n&theme=github_dark&layout=compact&langs_count=8&card_width=1010"/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=Revoluti0n&theme=github_dark&rank_icon=github&card_width=1010"/>
+        </p>
+    </a>
+    </div>
 </details>
+
 <a href="https://github.com/Revoluti0n"><img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRevoluti0n1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%2369A6DC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/Revoluti0n?logo=star&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/Revoluti0n?logo=people&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
@@ -211,16 +218,16 @@
 ## 🔎 About me
 
 <a href="https://github.com/Revoluti0n">
-    <p align="center">
-		<img src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/b024133a-3fb7-40d3-b0b5-3a9c72e9072a"/>
-	</p>
+<p align="center">
+    <img src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/b024133a-3fb7-40d3-b0b5-3a9c72e9072a"/>
+</p>
 </a>
 
 <details> 
-	<summary>
-    	Show static text
-	</summary>
-	<br>
+    <summary>
+    Show static text
+    </summary>
+    <br>
 
 I have worked with Python for several years, and it has been my language of choice for software development, data collection, data analysis, and machine learning projects. Besides Python, I also used VBA for automation tasks. Throughout this journey, I learned how to leverage the power of object-oriented programming to write scalable, sustainable, and reusable code.
 
@@ -239,28 +246,35 @@ Finally, I bring extensive experience in Python, object-oriented programming, so
 </details>
 
 
+<!-- Must update this part later -->
+<a href="https://github.com/Revoluti0n">
 <p align="center">
-	<a href="https://github.com/Revoluti0n">
-		<img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=0&color=ffa657&multiline=true&repeat=false&width=1325&height=550&lines=I+have+worked+with+Python+for+several+years%2C+and+it+has+been+my+language+of+choice+for+software+development%2C+data+collection%2C+data+analysis%2C+and;machine+learning+projects.+Besides+Python%2C+I+also+used+VBA+for+automation+tasks.+Throughout+this+journey%2C+I+learned+how+to+leverage+the+power+of;object-oriented+programming+to+write+scalable%2C+sustainable%2C+and+reusable+code.;+;I+have+experience+with+databases%2FDBMS%2C+including+SQL+(MySQL%2C+MariaDB%2C+PostgreSQL%2C+SQLAlchemy%2C+SQLite)+and+NoSQL+(MongoDB%2FMongoDB+Compass%2C+Redis).;I+designed%2C+developed%2C+and+maintained+databases+for+various+projects.+This+experience+has+helped+me+understand+how+to+effectively+manage+data+and;extract+insights+using+various+data+science+tools.;+;In+the+field+of+data+science%2C+I+have+knowledge+of+R+and+some+of+its+libraries+like+Tidyverse%2C+Plotly%2C+and+Flexdashboard.+In+Python%2C+I+briefly+used;PySpark+API+and+extensively+worked+with+libraries+such+as+pandas%2C+NumPy%2C+SciPy%2C+seaborn+and+Matplotlib+to+manipulate%2C+analyze%2C+and+visualize+data.;I+worked+on+projects+involving+advanced+data+analysis%2C+including+predictive+modeling+and+statistical+analysis%2C+and+these+libraries+have+been;instrumental+in+delivering+high-quality+results.;+;I+am+also+proficient+in+data+visualization+software+like+Tableau+and+Microsoft+Power+BI+and+have+experience+in+designing+and+developing+dashboards;for+business+intelligence%2C+which+was+the+subject+of+my+final+paper.+Effective+data+visualization+is+crucial+for+presenting+insights+in+a+clear+and;concise+manner%2C+and+my+knowledge+of+these+tools+has+helped+me+achieve+this+goal.;+;I+have+basic+knowledge+in+C%2FC%2B%2B+and+am+currently+exploring+other+languages+like+JavaScript%2C+frameworks+like+Django+and+Flask%2C+Microsoft+Azure+cloud;platform%2C+and+containerization+tools+like+Docker+and+Kubernetes.+In+the+pipeline%2C+I+plan+to+learn+Node.js%2C+React%2C+AWS%2C+Rust+programming+language%2C;and+messaging+services+like+RabbitMQ+and+Kafka.;+;My+engineering+background+has+provided+me+with+a+solid+foundation+in+mathematics+and+programming+logic.+I+have+always+sought+to+use+my+engineering;knowledge+to+solve+complex+problems%2C+and+programming+has+been+an+excellent+tool+for+me+to+do+so.;+;Finally%2C+I+bring+extensive+experience+in+Python%2C+object-oriented+programming%2C+software+development+life+cycle%2C+database+structures%2C+programming;logic%2C+data+science+libraries%2C+data+visualization+software%2C+data+mining%2C+and+analysis.+I+am+always+seeking+to+learn+and+grow%2C+and+I+believe+my;skills+can+be+a+valuable+asset+to+any+team+looking+to+develop+software%2C+automate+processes%2C+or+gain+data-driven+insights.">
-	</a>
+    <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=0&color=ffa657&multiline=true&repeat=false&width=1325&height=550&lines=I+have+worked+with+Python+for+several+years%2C+and+it+has+been+my+language+of+choice+for+software+development%2C+data+collection%2C+data+analysis%2C+and;machine+learning+projects.+Besides+Python%2C+I+also+used+VBA+for+automation+tasks.+Throughout+this+journey%2C+I+learned+how+to+leverage+the+power+of;object-oriented+programming+to+write+scalable%2C+sustainable%2C+and+reusable+code.;+;I+have+experience+with+databases%2FDBMS%2C+including+SQL+(MySQL%2C+MariaDB%2C+PostgreSQL%2C+SQLAlchemy%2C+SQLite)+and+NoSQL+(MongoDB%2FMongoDB+Compass%2C+Redis).;I+designed%2C+developed%2C+and+maintained+databases+for+various+projects.+This+experience+has+helped+me+understand+how+to+effectively+manage+data+and;extract+insights+using+various+data+science+tools.;+;In+the+field+of+data+science%2C+I+have+knowledge+of+R+and+some+of+its+libraries+like+Tidyverse%2C+Plotly%2C+and+Flexdashboard.+In+Python%2C+I+briefly+used;PySpark+API+and+extensively+worked+with+libraries+such+as+pandas%2C+NumPy%2C+SciPy%2C+seaborn+and+Matplotlib+to+manipulate%2C+analyze%2C+and+visualize+data.;I+worked+on+projects+involving+advanced+data+analysis%2C+including+predictive+modeling+and+statistical+analysis%2C+and+these+libraries+have+been;instrumental+in+delivering+high-quality+results.;+;I+am+also+proficient+in+data+visualization+software+like+Tableau+and+Microsoft+Power+BI+and+have+experience+in+designing+and+developing+dashboards;for+business+intelligence%2C+which+was+the+subject+of+my+final+paper.+Effective+data+visualization+is+crucial+for+presenting+insights+in+a+clear+and;concise+manner%2C+and+my+knowledge+of+these+tools+has+helped+me+achieve+this+goal.;+;I+have+basic+knowledge+in+C%2FC%2B%2B+and+am+currently+exploring+other+languages+like+JavaScript%2C+frameworks+like+Django+and+Flask%2C+Microsoft+Azure+cloud;platform%2C+and+containerization+tools+like+Docker+and+Kubernetes.+In+the+pipeline%2C+I+plan+to+learn+Node.js%2C+React%2C+AWS%2C+Rust+programming+language%2C;and+messaging+services+like+RabbitMQ+and+Kafka.;+;My+engineering+background+has+provided+me+with+a+solid+foundation+in+mathematics+and+programming+logic.+I+have+always+sought+to+use+my+engineering;knowledge+to+solve+complex+problems%2C+and+programming+has+been+an+excellent+tool+for+me+to+do+so.;+;Finally%2C+I+bring+extensive+experience+in+Python%2C+object-oriented+programming%2C+software+development+life+cycle%2C+database+structures%2C+programming;logic%2C+data+science+libraries%2C+data+visualization+software%2C+data+mining%2C+and+analysis.+I+am+always+seeking+to+learn+and+grow%2C+and+I+believe+my;skills+can+be+a+valuable+asset+to+any+team+looking+to+develop+software%2C+automate+processes%2C+or+gain+data-driven+insights."/>
 </p>
+</a>
  
-## 📫 Contact me
+## 📫 How to reach me
 <a href="https://www.linkedin.com/in/kelvynxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kelvynxavi@gmail.com"><img src="https://img.shields.io/badge/-kelvynxavi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:kelvyn@laepi.com.br"><img src="https://custom-icon-badges.demolab.com/badge/-kelvyn@laepi.com.br-7766d7?style=for-the-badge&logo=mail&logoColor=white"/></a>
+<a href="mailto:kelvyn.xavier@lamplightlogistics.com"><img src="https://custom-icon-badges.demolab.com/badge/-@LamplightLogistics-DD914E?style=for-the-badge&logo=mail&logoColor=white"/></a>
+<a href="mailto:kelvyn@laepi.com.br"><img src="https://custom-icon-badges.demolab.com/badge/-@LAEPI-7766d7?style=for-the-badge&logo=mail&logoColor=white"/></a>
 <a href="https://instagram.com/kelvynxavier"><img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/kelvynxavi"><img src="https://img.shields.io/badge/-Telegram-%2331a6dc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<br>
+
+</br>
 
 <a href="https://www.google.com/maps/place/Florian%C3%B3polis,+SC/@-27.5715955,-48.4702792,10z/data=!3m1!4b1!4m6!3m5!1s0x9527394eb2c632d7:0x81bc550b6a04c746!8m2!3d-27.5948036!4d-48.5569286!16s%2Fg%2F11bc6xlppd?entry=ttu"><img src="https://custom-icon-badges.demolab.com/badge/Florianópolis,_SC-BR-5fa55c?style=for-the-badge&logo=location&logoColor=white" height=25/></a>
 
 ---
 
+<a href="https://github.com/Revoluti0n">
 <p align="center">
-	<a href="https://github.com/Revoluti0n">
-		<img alt="Bye darkness, my old friend." src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=4000&pause=50&color=79C1FE&width=1010&height=50&lines=01000010+01111001+01100101;01100100+01100001+01110010+01101011+01101110+01100101+01110011+01110011+00101100;01101101+01111001;01101111+01101100+01100100;01100110+01110010+01101001+01100101+01101110+01100100+00101110">
-	</a>
+    <img alt="Bye darkness, my old friend." src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=4000&pause=50&color=79C1FE&width=1010&height=50&lines=01000010+01111001+01100101;01100100+01100001+01110010+01101011+01101110+01100101+01110011+01110011+00101100;01101101+01111001;01101111+01101100+01100100;01100110+01110010+01101001+01100101+01101110+01100100+00101110">
 </p>
+</a>
+
+<a href="https://github.com/Revoluti0n">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00dde4,100:00a5f7&textBg=false&fontAlign=93&fontSize=15&fontAlignY=12&reversal=true&animation=fadeIn&fontColor=8AFFFF&descAlign=60&section=footer"/>
+</a>
 
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
