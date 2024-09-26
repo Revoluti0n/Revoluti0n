@@ -65,23 +65,32 @@
 <p align="left">
 
 ```python
+🠊 Mainly
+```
+
+[![Programming](https://skillicons.dev/icons?i=py,cpp,docker,fastapi,django,flask,postgres,mysql,sqlite,redis,mongodb,kafka,git,github,githubactions,postman,qt,selenium,azure,aws,gcp,pycharm,vscode,powershell,bash,latex,md,windows,linux,mint,ubuntu,raspberrypi,autocad,sketchup,notion,discord&perline=18)](https://github.com/Revoluti0n)
+
+```python
 🠊 Programming | Markup | Runtime Environment
 ```
 
 <a href="https://github.com/Revoluti0n"><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Go" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="lisp" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/Revoluti0n"><img src="https://cdn-icons-png.flaticon.com/512/919/919848.png" alt="lisp" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="R" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Octave" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg" alt="lisp" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="VBA" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/013df825-85cb-4df3-8dc0-6d8062b39622" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Markdown" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Latex" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
  
 ```python
-🠊 SQL | NoSQL | DBMS | ORM
+🠊 SQL | NoSQL | DBMS | ORM | Message-Queueing
 ```
 
 <a href="https://github.com/Revoluti0n"><img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
@@ -93,6 +102,8 @@
 <a href="https://github.com/Revoluti0n"><img alt="DBeaver" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/78d38cc1-71e7-420c-8444-0d72fdc61de6" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="MySQL Workbench" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/00937462-60ee-4038-be60-eb16d2aee83e" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="SQLAlchemy" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Kafka" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="RabbitMQ" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40"></a>
 
 ```python
 🠊 Frameworks | Libraries
@@ -112,6 +123,11 @@
 <a href="https://github.com/Revoluti0n"><img alt="PyQt" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/7b96158e-2b12-484c-8050-aedff5679835" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Kivy" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="KivyMD" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/bed08266-3db6-42ba-a554-2a6bc137d1f3" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="OpenCV" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="TensorFlow" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="ScikitLearn" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Selenium" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="RegEx" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="Pytest" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Unittest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2cf06c76-b2c4-4245-a020-dab71c1c95dc" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Doctest" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/2bc56569-08a9-46cf-a45b-781f35b0e4e1" width="40" height="40"/></a>
@@ -127,12 +143,15 @@
 <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="42" height="42"/></a>
 <a href="https://about.gitlab.com/"><img alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="40"></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://docs.docker.com/compose/"><img alt="Docker Compose" src="https://stack.desenvolvedor.expert/appendix/docker/images/compose.png" width="40" height="40"/></a>
+<a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="40"></a>
 <a href="https://www.terraform.io/"><img alt="Terraform" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
 <a href="https://www.ansible.com/"><img alt="Ansible" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/pt-br/"><img alt="Microsoft Azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/pt/"><img alt="Amazon AWS" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/7c2460b0-258f-4028-85d4-9b793c140143" width="40" height="30"/></a>
+<a href="https://cloud.google.com/"><img alt="GCP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" width="40"></a>
 <a href="https://azure.microsoft.com/pt-br/products/functions"><img alt="Azure Functions" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/a61432d2-fe16-424e-b252-4a12a5f59057" width="42" height="45"/></a>
 <a href="https://aws.amazon.com/pt/lambda/"><img alt="AWS Lambda" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/87617ae7-6e76-49ee-8cbe-5fbb0dae8075" width="40" height="40"/></a>
 <a href="https://swagger.io/"><img alt="Swagger API" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/d1248b40-c418-4651-a0d5-28c0d8cff274" width="40" height="40"/></a>
@@ -142,9 +161,12 @@
 🠊 Tools | Productivity | Business Intelligence | Civil Engineering
 ```
 
+<a href="https://github.com/Revoluti0n"><img alt="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="PowerShell" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Bash" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Adobe Photoshop" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Adobe Photoshop" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="Adobe Illustrator" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Lumion" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/3b1e2c49-e83b-4d70-b9a3-425a4b01c67d" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Notion" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/720e086d-89e8-4154-b169-08683763ecce" width="40" height="40"/></a>
@@ -158,6 +180,20 @@
 <a href="https://github.com/Revoluti0n"><img alt="Microsoft PowerBI" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/97995438-5248-4bba-a966-eb0fccb4fff7" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Autocad" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/fbf622c8-f1f8-458d-8e74-18676f041392" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Revit" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/beb92115-2f2a-4066-a4cd-fb224760c830" width="40" height="40"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Sketchup" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sketchup-Dark.svg" width="40"></a>
+
+```python
+🠊 SO | Distros
+```
+<a href="https://github.com/Revoluti0n"><img alt="Windows" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Linux" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="macOS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Mint" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Ubuntu" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Debian" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Kali" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Red Hat" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RedHat-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="Raspbian" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" width="40"></a>
 
 </p>
 
