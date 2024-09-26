@@ -241,8 +241,8 @@
 </details>
 
 <a href="https://github.com/Revoluti0n"><img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRevoluti0n1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%2369A6DC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/Revoluti0n?logo=star&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/Revoluti0n?logo=people&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/Revoluti0n?logo=star&logoColor=6aa2d3&labelColor=6aa2d3&color=7dc447"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/Revoluti0n?logo=people&logoColor=6aa2d3&labelColor=6aa2d3&color=7dc447"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Github Streak" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DRevoluti0n%26type%3Djson&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Total Contributions" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=FFFFFF&color=7dc447&labelColor=6aa2d3&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DRevoluti0n%26type%3Djson"/></a>
 
