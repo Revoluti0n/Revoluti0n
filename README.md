@@ -68,7 +68,7 @@
 🠊 Mainly
 ```
 
-[![Programming](https://skillicons.dev/icons?i=py,cpp,docker,fastapi,django,flask,postgres,mysql,sqlite,redis,mongodb,kafka,git,github,githubactions,postman,qt,selenium,azure,aws,gcp,pycharm,vscode,powershell,bash,latex,md,windows,linux,mint,ubuntu,raspberrypi,autocad,sketchup,notion,discord&perline=18)](https://github.com/Revoluti0n)
+[![Programming](https://skillicons.dev/icons?i=py,cpp,docker,fastapi,django,flask,postgres,mysql,sqlite,redis,mongodb,kafka,git,github,githubactions,postman,qt,selenium,aws,azure,gcp,pycharm,vscode,powershell,bash,latex,md,windows,linux,mint,ubuntu,raspberrypi,autocad,sketchup,notion,discord&perline=18)](https://github.com/Revoluti0n)
 
 ```python
 🠊 Programming | Markup | Runtime Environment
