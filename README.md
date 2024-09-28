@@ -7,7 +7,7 @@
     <p align="center">
         <img alt="Kelvyn Xavier" src="https://readme-typing-svg.demolab.com/?lines=Kelvyn+Xavier&font=Fira%20Code&center=true&size=15&width=400&height=30&duration=4000&pause=500&repeat=false&color=DD914E"/>
         <br>
-        <img alt="Typing Message" src="https://readme-typing-svg.demolab.com/?lines=Hello+darkness,+my+old+friend.;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE">
+        <img alt="Typing Message" src="https://readme-typing-svg.demolab.com/?lines=Revolution+is+coming+.+.+.;Expect+us.&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500&color=79C1FE">
     </p>
     </a>
 </div>
