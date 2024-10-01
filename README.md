@@ -103,6 +103,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="MySQL Workbench" src="https://github.com/Revoluti0n/Revoluti0n/assets/75655706/00937462-60ee-4038-be60-eb16d2aee83e" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="SQLAlchemy" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Kafka" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="MQTT" src="https://mqtt.org/assets/downloads/mqtt-ver.png" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="RabbitMQ" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40"></a>
 
 ```python
