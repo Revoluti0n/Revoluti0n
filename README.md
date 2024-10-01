@@ -165,6 +165,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="Postman" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="PowerShell" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="Bash" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"></a>
+<a href="https://github.com/Revoluti0n"><img alt="ZSH" src="https://cdn.pixabay.com/photo/2022/05/03/17/44/zsh-7172334_1280.png" width="45" height="42"></a>
 <a href="https://github.com/Revoluti0n"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Adobe Photoshop" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40"></a>
@@ -186,6 +187,7 @@
 ```python
 🠊 SO | Distros
 ```
+
 <a href="https://github.com/Revoluti0n"><img alt="Windows" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="Linux" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40"></a>
 <a href="https://github.com/Revoluti0n"><img alt="macOS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" width="40"></a>
