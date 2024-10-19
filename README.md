@@ -58,6 +58,8 @@
 - Cloud Engineering
 - Data Engineering
 - Data Science
+- Blockchain
+- Cryptography / Cryptocurrencies
 ```
 
 ## 💼 Knowledge tools
@@ -210,6 +212,55 @@
 
 ## 📊 Statistics
 
+<div align="center">
+    <a href="https://github.com/Revoluti0n">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revoluti0n&custom_title=Contribution%20Graph&bg_color=00000000&color=FEFEFE&line=00a5f7&point=e7e3e2&area=true&hide_border=true"/>
+    </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00a5f7&height=3&section=header&%20render">
+  </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Revoluti0n">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Revoluti0n&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1200&border=00000000&background=00000000&currStreakNum=FEFEFE&ring=00a5f7&fire=DD914E&sideNums=FEFEFE&currStreakLabel=dd914e&sideLabels=79C1FE&dates=FEFEFE&excludeDaysLabel=00000000&stroke=00a5f7"/>
+    </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00a5f7&height=3&section=header&%20render">
+  </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Revoluti0n">
+    <img width="55%" height="215px" src="https://github-readme-stats-xavier.vercel.app/api?username=Revoluti0n&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&show=prs_merged_percentage&hide_border=true&number_format=long&custom_title=Statistics&title_color=00a5f7&icon_color=DD914E&text_color=FEFEFE&bg_color=00000000"/><img width="45%" height="215px" src="https://github-readme-stats-xavier.vercel.app/api/top-langs/?username=Revoluti0n&layout=compact&hide_border=true&title_color=DD914E&text_color=FEFEFE&bg_color=00000000&hide=qml,css,html,powershell,vba,common%20lisp,smarty,inno%20setup,xslt,roff&size_weight=0.17&langs_count=20&custom_title=Most%20commonly%20used%20languages"/>
+    </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00a5f7&height=3&section=header&%20render">
+  </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Revoluti0n">
+    <img width="59%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Revoluti0n&hide_border=true&title_color=00a5f7&icon_color=DD914E&text_color=FEFEFE&bg_color=00000000&layout=compact&line_height=20&custom_title=Time%20stats%20since%20last%20year%20(extracted%20from%20a%20single%20IDE)&hide=actionscript,actionscript%203,idea_module,text,qt_ui_file,qrc,requirements.txt,gitignore%20file,prototext,other,textmate,log,pythonstub,c,nginx%20configuration%20file,gdscript,go,typescript"/>
+    </a>
+</div>
+
+<!--OLD
+&nbsp;<div align="center">
+	[![Spotify](https://now-playing-xavier.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/kelvynxavier)
+</div>
+--> 
+
+<!--
 <div align="left">
 	<a href="https://github.com/Revoluti0n">
     	<p align="center">
@@ -218,28 +269,22 @@
         </p>
     </a>
 </div>
+-->OLD
 
 <details>
     <summary>
     Show more statistics
     </summary>
     <br>
-    <div align="left">
-    <a href="https://github.com/Revoluti0n">
-    <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=github_dark&card_width=1010"/>
-	<!-- For non-compact model
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoluti0n&theme=github_dark&card_width=1010"/>
-	-->
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Revoluti0n&theme=github_dark&layout=compact&card_width=1010"/>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revoluti0n&theme=github_dark&layout=compact&langs_count=8&card_width=1010"/>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=Revoluti0n&theme=github_dark&rank_icon=github&card_width=1010"/>
-        </p>
-    </a>
+    <div align="center">
+    	<a href="https://github.com/Revoluti0n">
+    		<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Revoluti0n&exclude=CSS&theme=transparent"/><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Revoluti0n&theme=transparent&utcOffset=-3"/>
+    	</a>
+    </div>
+    <div align="center">
+    	<a href="https://github.com/Revoluti0n">
+    		<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=transparent&color=FFFFFF"/>
+    	</a>
     </div>
 </details>
 
@@ -290,14 +335,13 @@ Finally, I bring extensive experience in Python, object-oriented programming, so
 
 </details>
 
-
 <!-- Must update this part later -->
 <a href="https://github.com/Revoluti0n">
 <p align="center">
     <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=0&color=ffa657&multiline=true&repeat=false&width=1325&height=550&lines=I+have+worked+with+Python+for+several+years%2C+and+it+has+been+my+language+of+choice+for+software+development%2C+data+collection%2C+data+analysis%2C+and;machine+learning+projects.+Besides+Python%2C+I+also+used+VBA+for+automation+tasks.+Throughout+this+journey%2C+I+learned+how+to+leverage+the+power+of;object-oriented+programming+to+write+scalable%2C+sustainable%2C+and+reusable+code.;+;I+have+experience+with+databases%2FDBMS%2C+including+SQL+(MySQL%2C+MariaDB%2C+PostgreSQL%2C+SQLAlchemy%2C+SQLite)+and+NoSQL+(MongoDB%2FMongoDB+Compass%2C+Redis).;I+designed%2C+developed%2C+and+maintained+databases+for+various+projects.+This+experience+has+helped+me+understand+how+to+effectively+manage+data+and;extract+insights+using+various+data+science+tools.;+;In+the+field+of+data+science%2C+I+have+knowledge+of+R+and+some+of+its+libraries+like+Tidyverse%2C+Plotly%2C+and+Flexdashboard.+In+Python%2C+I+briefly+used;PySpark+API+and+extensively+worked+with+libraries+such+as+pandas%2C+NumPy%2C+SciPy%2C+seaborn+and+Matplotlib+to+manipulate%2C+analyze%2C+and+visualize+data.;I+worked+on+projects+involving+advanced+data+analysis%2C+including+predictive+modeling+and+statistical+analysis%2C+and+these+libraries+have+been;instrumental+in+delivering+high-quality+results.;+;I+am+also+proficient+in+data+visualization+software+like+Tableau+and+Microsoft+Power+BI+and+have+experience+in+designing+and+developing+dashboards;for+business+intelligence%2C+which+was+the+subject+of+my+final+paper.+Effective+data+visualization+is+crucial+for+presenting+insights+in+a+clear+and;concise+manner%2C+and+my+knowledge+of+these+tools+has+helped+me+achieve+this+goal.;+;I+have+basic+knowledge+in+C%2FC%2B%2B+and+am+currently+exploring+other+languages+like+JavaScript%2C+frameworks+like+Django+and+Flask%2C+Microsoft+Azure+cloud;platform%2C+and+containerization+tools+like+Docker+and+Kubernetes.+In+the+pipeline%2C+I+plan+to+learn+Node.js%2C+React%2C+AWS%2C+Rust+programming+language%2C;and+messaging+services+like+RabbitMQ+and+Kafka.;+;My+engineering+background+has+provided+me+with+a+solid+foundation+in+mathematics+and+programming+logic.+I+have+always+sought+to+use+my+engineering;knowledge+to+solve+complex+problems%2C+and+programming+has+been+an+excellent+tool+for+me+to+do+so.;+;Finally%2C+I+bring+extensive+experience+in+Python%2C+object-oriented+programming%2C+software+development+life+cycle%2C+database+structures%2C+programming;logic%2C+data+science+libraries%2C+data+visualization+software%2C+data+mining%2C+and+analysis.+I+am+always+seeking+to+learn+and+grow%2C+and+I+believe+my;skills+can+be+a+valuable+asset+to+any+team+looking+to+develop+software%2C+automate+processes%2C+or+gain+data-driven+insights."/>
 </p>
 </a>
- 
+
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/kelvynxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kelvynxavi@gmail.com"><img src="https://img.shields.io/badge/-kelvynxavi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -309,8 +353,6 @@ Finally, I bring extensive experience in Python, object-oriented programming, so
 </br>
 
 <a href="https://www.google.com/maps/place/Florian%C3%B3polis,+SC/@-27.5715955,-48.4702792,10z/data=!3m1!4b1!4m6!3m5!1s0x9527394eb2c632d7:0x81bc550b6a04c746!8m2!3d-27.5948036!4d-48.5569286!16s%2Fg%2F11bc6xlppd?entry=ttu"><img src="https://custom-icon-badges.demolab.com/badge/Florianópolis,_SC-BR-5fa55c?style=for-the-badge&logo=location&logoColor=white" height=25/></a>
-
----
 
 <a href="https://github.com/Revoluti0n">
 <p align="center">
