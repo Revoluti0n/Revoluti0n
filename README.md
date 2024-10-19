@@ -238,7 +238,7 @@
 
 <div align="center">
     <a href="https://github.com/Revoluti0n">
-    <img width="55%" height="215px" src="https://github-readme-stats-xavier.vercel.app/api?username=Revoluti0n&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&show=prs_merged_percentage&hide_border=true&number_format=long&custom_title=Statistics&title_color=00a5f7&icon_color=DD914E&text_color=FEFEFE&bg_color=00000000"/><img width="45%" height="215px" src="https://github-readme-stats-xavier.vercel.app/api/top-langs/?username=Revoluti0n&layout=compact&hide_border=true&title_color=DD914E&text_color=FEFEFE&bg_color=00000000&hide=qml,css,html,powershell,vba,common%20lisp,smarty,inno%20setup,xslt,roff&size_weight=0.17&langs_count=20&custom_title=Most%20commonly%20used%20languages"/>
+    <img width="55%" height="215px" src="https://github-readme-stats-xavier.vercel.app/api?username=Revoluti0n&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&show=prs_merged_percentage&hide_border=true&number_format=long&custom_title=Statistics&title_color=00a5f7&icon_color=DD914E&text_color=FEFEFE&bg_color=00000000"/><img width="45%" height="215px" src="https://github-readme-stats-xavier.vercel.app/api/top-langs/?username=Revoluti0n&layout=compact&hide_border=true&title_color=DD914E&text_color=FEFEFE&bg_color=00000000&hide=qml,css,html,powershell,vba,common%20lisp,smarty,inno%20setup,xslt,roff&size_weight=0.16&langs_count=20&custom_title=Most%20commonly%20used%20languages"/>
     </a>
 </div>
 
