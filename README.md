@@ -354,6 +354,12 @@ Finally, I bring extensive experience in Python, object-oriented programming, so
 
 <a href="https://www.google.com/maps/place/Florian%C3%B3polis,+SC/@-27.5715955,-48.4702792,10z/data=!3m1!4b1!4m6!3m5!1s0x9527394eb2c632d7:0x81bc550b6a04c746!8m2!3d-27.5948036!4d-48.5569286!16s%2Fg%2F11bc6xlppd?entry=ttu"><img src="https://custom-icon-badges.demolab.com/badge/Florianópolis,_SC-BR-5fa55c?style=for-the-badge&logo=location&logoColor=white" height=25/></a>
 
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00a5f7&height=3&section=header&%20render">
+  </a>
+</div>
+
 <a href="https://github.com/Revoluti0n">
 <p align="center">
     <img alt="Bye darkness, my old friend." src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=4000&pause=50&color=79C1FE&width=1010&height=50&lines=01000010+01111001+01100101;01100100+01100001+01110010+01101011+01101110+01100101+01110011+01110011+00101100;01101101+01111001;01101111+01101100+01100100;01100110+01110010+01101001+01100101+01101110+01100100+00101110">
