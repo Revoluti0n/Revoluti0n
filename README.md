@@ -278,12 +278,12 @@
     <br>
     <div align="center">
     	<a href="https://github.com/Revoluti0n">
-    		<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Revoluti0n&exclude=CSS&theme=transparent"/><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Revoluti0n&theme=transparent&utcOffset=-3"/>
+    	    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=transparent&color=FFFFFF"/>
     	</a>
     </div>
     <div align="center">
     	<a href="https://github.com/Revoluti0n">
-    		<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revoluti0n&theme=transparent&color=FFFFFF"/>
+    	    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Revoluti0n&exclude=CSS&theme=transparent"/><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Revoluti0n&theme=transparent&utcOffset=-3"/>
     	</a>
     </div>
 </details>
