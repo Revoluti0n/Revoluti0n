@@ -254,23 +254,6 @@
     </a>
 </div>
 
-<!--OLD
-&nbsp;<div align="center">
-	[![Spotify](https://now-playing-xavier.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/kelvynxavier)
-</div>
---> 
-
-<!--
-<div align="left">
-	<a href="https://github.com/Revoluti0n">
-    	<p align="center">
-        	<img src="https://github-readme-streak-stats.herokuapp.com?user=Revoluti0n&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1200&border=444B53&background=00000000&currStreakNum=FEFEFE&ring=26A641&fire=DD914E&sideNums=FEFEFE&currStreakLabel=79C1FE&sideLabels=79C1FE&dates=FEFEFE&excludeDaysLabel=444B53&stroke=26A641"/>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revoluti0n&theme=github-compact"/>
-        </p>
-    </a>
-</div>
--->
-
 <details>
     <summary>
     Show more statistics
