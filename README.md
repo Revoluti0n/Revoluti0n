@@ -326,12 +326,14 @@ Finally, I bring extensive experience in Python, object-oriented programming, so
 </a>
 
 ## 📫 How to reach me
-<a href="https://www.linkedin.com/in/kelvynxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kelvynxavi@gmail.com"><img src="https://img.shields.io/badge/-kelvynxavi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:kelvyn.xavier@lamplightlogistics.com"><img src="https://custom-icon-badges.demolab.com/badge/-@LamplightLogistics-DD914E?style=for-the-badge&logo=mail&logoColor=white"/></a>
-<a href="mailto:kelvyn@laepi.com.br"><img src="https://custom-icon-badges.demolab.com/badge/-@LAEPI-7766d7?style=for-the-badge&logo=mail&logoColor=white"/></a>
-<a href="https://instagram.com/kelvynxavier"><img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/kelvynxavi"><img src="https://img.shields.io/badge/-Telegram-%2331a6dc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+<a href="mailto:kelvynxavi@gmail.com"><img height="30" src="https://img.shields.io/badge/-kelvynxavi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kelvyn.xavier@lamplightlogistics.com"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-@LamplightLogistics-DD914E?style=for-the-badge&logo=mail&logoColor=white"/></a>
+<a href="mailto:kelvyn@laepi.com.br"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-@LAEPI-7766d7?style=for-the-badge&logo=mail&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/kelvynxavier/" target="_blank"><img height="31" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/kelvynxavier"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/kelvynxavi"><img height="31" src="https://img.shields.io/badge/-Telegram-%2331a6dc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 </br>
 
