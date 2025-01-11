@@ -202,13 +202,17 @@
 
 </p>
 
-## 💻 Workspace
+## 💻 Workspaces
 
+<a href="https://github.com/kelvynxavier"><img alt="DESKTOP" src="https://img.shields.io/badge/1-FFFFFF?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="OS1" src="https://img.shields.io/badge/Windows-%23004ee0.svg?&style=for-the-badge&logo=windows&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="OS2" src="https://img.shields.io/badge/Linux-%23D77C1C.svg?&style=for-the-badge&logo=linux&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="CPU" src="https://img.shields.io/badge/Intel%20Core%20i9%2014900K%20OC%205.0GHz-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="RAM" src="https://img.shields.io/badge/64GB%20RAM%205200MHz-%23E01935.svg?&style=for-the-badge&logo=corsair&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA%20RTX%203090-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+
+<a href="https://github.com/kelvynxavier"><img alt="NOTEBOOK" src="https://img.shields.io/badge/2-FFFFFF?style=for-the-badge&logo=computer&logoColor=white"/></a>
+<a href="https://github.com/kelvynxavier"><img alt="MAC" src='https://img.shields.io/badge/MacBook Pro 14" 2021 M1 PRO 16GB-808080?style=for-the-badge&logo=apple&logoColor=white'/></a>
 
 ## 📊 Statistics
 
