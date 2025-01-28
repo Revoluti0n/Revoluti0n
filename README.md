@@ -32,7 +32,7 @@
 
 [`💼` Knowledge tools](#-knowledge-tools)
 
-[`💻` Workspace](#-workspace)
+[`💻` Workspace](#-workspaces)
 
 [`📊` Statistics](#-statistics)
 
