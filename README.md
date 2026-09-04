@@ -208,7 +208,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="OS2" src="https://img.shields.io/badge/Linux-%23D77C1C.svg?&style=for-the-badge&logo=linux&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="CPU" src="https://img.shields.io/badge/Ryzen%209%209950%20X3D%20-%23E01935.svg?&style=for-the-badge&logo=amd&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="RAM" src="https://img.shields.io/badge/96GB%20RAM%206800MHz-%230071C5.svg?&style=for-the-badge&logo=corsair&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA%20RTX%203090%20OC-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA%20RTX%205080%20OC-77B901?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
 <a href="https://github.com/kelvynxavier"><img alt="NOTEBOOK" src="https://img.shields.io/badge/2-FFFFFF?style=for-the-badge&logo=computer&logoColor=white"/></a>
 <a href="https://github.com/kelvynxavier"><img alt="MAC" src='https://img.shields.io/badge/MacBook Pro 14" 2021 M1 PRO 16GB-808080?style=for-the-badge&logo=apple&logoColor=white'/></a>
@@ -274,22 +274,9 @@
     </div>
 </details>
 
-<a href="https://github.com/Revoluti0n"><img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRevoluti0n1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%2369A6DC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/Revoluti0n?logo=star&logoColor=6aa2d3&labelColor=6aa2d3&color=7dc447"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/Revoluti0n?logo=people&logoColor=6aa2d3&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Github Streak" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DRevoluti0n%26type%3Djson&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Total Contributions" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=FFFFFF&color=7dc447&labelColor=6aa2d3&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DRevoluti0n%26type%3Djson"/></a>
-
-<!-- Current repo stats
-<a href="https://github.com/Revoluti0n"><img alt="Open Issues" src="https://custom-icon-badges.demolab.com/github/issues-raw/Revoluti0n/Revoluti0n?logo=issue&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/Revoluti0n/Revoluti0n?logo=history&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Code Size" src="https://custom-icon-badges.demolab.com/github/languages/code-size/Revoluti0n/Revoluti0n?logo=file-code&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/Revoluti0n/Revoluti0n?logo=git-pull-request&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Tag" src="https://custom-icon-badges.demolab.com/github/v/tag/Revoluti0n/Revoluti0n?logo=tag&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="License" src="https://custom-icon-badges.demolab.com/github/license/Revoluti0n/Revoluti0n?logo=law&logoColor=FFFFFF&labelColor=6aa2d3&color=7dc447"/></a>
-💡
--->
-
 
 ## 🔎 About me
 
@@ -305,26 +292,17 @@
     </summary>
     <br>
 
-I have worked with Python for several years, and it has been my language of choice for software development, data collection, data analysis, and machine learning projects. Besides Python, I also used VBA for automation tasks. Throughout this journey, I learned how to leverage the power of object-oriented programming to write scalable, sustainable, and reusable code.
+<p>
+Senior Backend Software Engineer focused on building reliable and scalable systems, with a strong background in Python backend development and cloud-based solutions, primarily on AWS. Experienced in distributed and transactional systems, event-driven processing, APIs, data-intensive applications, and system integrations. Experience spans payments, logistics, RTLS/IoT, and specialized engineering software.
 
-I have experience with databases/DBMS, including SQL (MySQL, MariaDB, PostgreSQL, SQLAlchemy, SQLite) and NoSQL (MongoDB/MongoDB Compass, Redis). I designed, developed, and maintained databases for various projects. This experience has helped me understand how to effectively manage data and extract insights using various data science tools.
-
-In the field of data science, I have knowledge of R and some of its libraries like Tidyverse, Plotly, and Flexdashboard. In Python, I briefly used PySpark API and extensively worked with libraries such as pandas, NumPy, SciPy, seaborn and Matplotlib to manipulate, analyze, and visualize data. I worked on projects involving advanced data analysis, including predictive modeling and statistical analysis, and these libraries have been instrumental in delivering high-quality results.
-
-I am also proficient in data visualization software like Tableau and Microsoft Power BI and have experience in designing and developing dashboards for business intelligence, which was the subject of my final paper. Effective data visualization is crucial for presenting insights in a clear and concise manner, and my knowledge of these tools has helped me achieve this goal.
-
-I have basic knowledge in C/C++ and am currently exploring other languages like JavaScript, frameworks like Django and Flask, Microsoft Azure cloud platform, and containerization tools like Docker and Kubernetes. In the pipeline, I plan to learn Node.js, React, AWS, Rust programming language, and messaging services like RabbitMQ and Kafka.
-
-My engineering background has provided me with a solid foundation in mathematics and programming logic. I have always sought to use my engineering knowledge to solve complex problems, and programming has been an excellent tool for me to do so.
-
-Finally, I bring extensive experience in Python, object-oriented programming, software development life cycle, database structures, programming logic, data science libraries, data visualization software, data mining, and analysis. I am always seeking to learn and grow, and I believe my skills can be a valuable asset to any team looking to develop software, automate processes, or gain data-driven insights.
+I can contribute effectively to engineering teams across different markets and environments, bringing strong backend engineering experience, adaptability across domains, and a focus on building software that is reliable, maintainable, and designed to evolve.
+</p>
 
 </details>
 
-<!-- Must update this part later -->
 <a href="https://github.com/Revoluti0n">
 <p align="center">
-    <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=0&color=ffa657&multiline=true&repeat=false&width=1325&height=550&lines=I+have+worked+with+Python+for+several+years%2C+and+it+has+been+my+language+of+choice+for+software+development%2C+data+collection%2C+data+analysis%2C+and;machine+learning+projects.+Besides+Python%2C+I+also+used+VBA+for+automation+tasks.+Throughout+this+journey%2C+I+learned+how+to+leverage+the+power+of;object-oriented+programming+to+write+scalable%2C+sustainable%2C+and+reusable+code.;+;I+have+experience+with+databases%2FDBMS%2C+including+SQL+(MySQL%2C+MariaDB%2C+PostgreSQL%2C+SQLAlchemy%2C+SQLite)+and+NoSQL+(MongoDB%2FMongoDB+Compass%2C+Redis).;I+designed%2C+developed%2C+and+maintained+databases+for+various+projects.+This+experience+has+helped+me+understand+how+to+effectively+manage+data+and;extract+insights+using+various+data+science+tools.;+;In+the+field+of+data+science%2C+I+have+knowledge+of+R+and+some+of+its+libraries+like+Tidyverse%2C+Plotly%2C+and+Flexdashboard.+In+Python%2C+I+briefly+used;PySpark+API+and+extensively+worked+with+libraries+such+as+pandas%2C+NumPy%2C+SciPy%2C+seaborn+and+Matplotlib+to+manipulate%2C+analyze%2C+and+visualize+data.;I+worked+on+projects+involving+advanced+data+analysis%2C+including+predictive+modeling+and+statistical+analysis%2C+and+these+libraries+have+been;instrumental+in+delivering+high-quality+results.;+;I+am+also+proficient+in+data+visualization+software+like+Tableau+and+Microsoft+Power+BI+and+have+experience+in+designing+and+developing+dashboards;for+business+intelligence%2C+which+was+the+subject+of+my+final+paper.+Effective+data+visualization+is+crucial+for+presenting+insights+in+a+clear+and;concise+manner%2C+and+my+knowledge+of+these+tools+has+helped+me+achieve+this+goal.;+;I+have+basic+knowledge+in+C%2FC%2B%2B+and+am+currently+exploring+other+languages+like+JavaScript%2C+frameworks+like+Django+and+Flask%2C+Microsoft+Azure+cloud;platform%2C+and+containerization+tools+like+Docker+and+Kubernetes.+In+the+pipeline%2C+I+plan+to+learn+Node.js%2C+React%2C+AWS%2C+Rust+programming+language%2C;and+messaging+services+like+RabbitMQ+and+Kafka.;+;My+engineering+background+has+provided+me+with+a+solid+foundation+in+mathematics+and+programming+logic.+I+have+always+sought+to+use+my+engineering;knowledge+to+solve+complex+problems%2C+and+programming+has+been+an+excellent+tool+for+me+to+do+so.;+;Finally%2C+I+bring+extensive+experience+in+Python%2C+object-oriented+programming%2C+software+development+life+cycle%2C+database+structures%2C+programming;logic%2C+data+science+libraries%2C+data+visualization+software%2C+data+mining%2C+and+analysis.+I+am+always+seeking+to+learn+and+grow%2C+and+I+believe+my;skills+can+be+a+valuable+asset+to+any+team+looking+to+develop+software%2C+automate+processes%2C+or+gain+data-driven+insights."/>
+    <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=0&color=ffa657&multiline=true&repeat=false&width=1325&height=125&lines=Senior+Backend+Software+Engineer+focused+on+building+reliable+and+scalable+systems%2C+with+a+strong+background+in+Python+backend+development+and;cloud-based+solutions%2C+primarily+on+AWS.+Experienced+in+distributed+and+transactional+systems%2C+event-driven+processing%2C+APIs%2C+data-intensive;applications%2C+and+system+integrations.+Experience+spans+payments%2C+logistics%2C+RTLS%2FIoT%2C+and+specialized+engineering+software.;;I+can+contribute+effectively+to+engineering+teams+across+different+markets+and+environments%2C+bringing+strong+backend+engineering+experience%2C;adaptability+across+domains%2C+and+a+focus+on+building+software+that+is+reliable%2C+maintainable%2C+and+designed+to+evolve."/>
 </p>
 </a>
 
