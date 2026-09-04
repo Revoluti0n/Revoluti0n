@@ -245,18 +245,6 @@
     </a>
 </div>
 
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00a5f7&height=3&section=header&%20render">
-  </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/Revoluti0n">
-    <img width="59%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Revoluti0n&hide_border=true&title_color=00a5f7&icon_color=DD914E&text_color=FEFEFE&bg_color=00000000&layout=compact&line_height=20&custom_title=Time%20stats%20since%20last%20year%20(extracted%20from%20a%20single%20IDE)&hide=actionscript,actionscript%203,idea_module,text,qt_ui_file,qrc,requirements.txt,gitignore%20file,prototext,other,textmate,log,pythonstub,c,nginx%20configuration%20file,gdscript,go,typescript"/>
-    </a>
-</div>
-
 <details>
     <summary>
     Show more statistics
