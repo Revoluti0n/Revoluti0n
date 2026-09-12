@@ -103,6 +103,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Alembic" src="https://custom-icon-badges.demolab.com/badge/Alembic-6BA81E?style=for-the-badge&logo=database&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="uv" src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Poetry" src="https://custom-icon-badges.demolab.com/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white"/></a>
