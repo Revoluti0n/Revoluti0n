@@ -282,11 +282,15 @@
 
 [//]: # (</div>)
 
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00a5f7&height=3&section=header&%20render">
-  </a>
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (  <a href="#">)
+
+[//]: # (    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00a5f7&height=3&section=header&%20render">)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
 
 <div align="center">
     <a href="https://github.com/Revoluti0n">
