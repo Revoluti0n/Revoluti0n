@@ -194,25 +194,25 @@
 🠊 AWS Ecosystem
 ```
 
-<a href="https://github.com/Revoluti0n"><img alt="Amazon EC2" src="https://custom-icon-badges.demolab.com/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="AWS Lambda" src="https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon ECS" src="https://custom-icon-badges.demolab.com/badge/Amazon%20ECS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon ECR" src="https://custom-icon-badges.demolab.com/badge/Amazon%20ECR-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon S3" src="https://custom-icon-badges.demolab.com/badge/Amazon%20S3-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon RDS" src="https://custom-icon-badges.demolab.com/badge/Amazon%20RDS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon ElastiCache" src="https://custom-icon-badges.demolab.com/badge/Amazon%20ElastiCache-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon Athena" src="https://custom-icon-badges.demolab.com/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="AWS Glue" src="https://custom-icon-badges.demolab.com/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon Bedrock" src="https://custom-icon-badges.demolab.com/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon Q Developer" src="https://custom-icon-badges.demolab.com/badge/Amazon%20Q%20Developer-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon CloudWatch" src="https://custom-icon-badges.demolab.com/badge/Amazon%20CloudWatch-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="AWS CloudTrail" src="https://custom-icon-badges.demolab.com/badge/AWS%20CloudTrail-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="AWS IoT Core" src="https://custom-icon-badges.demolab.com/badge/AWS%20IoT%20Core-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon EventBridge" src="https://custom-icon-badges.demolab.com/badge/Amazon%20EventBridge-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon Kinesis" src="https://custom-icon-badges.demolab.com/badge/Amazon%20Kinesis-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon MSK" src="https://custom-icon-badges.demolab.com/badge/Amazon%20MSK-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon SNS" src="https://custom-icon-badges.demolab.com/badge/Amazon%20SNS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Amazon SES" src="https://custom-icon-badges.demolab.com/badge/Amazon%20SES-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon EC2" src="https://custom-icon-badges.demolab.com/badge/EC2-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="AWS Lambda" src="https://custom-icon-badges.demolab.com/badge/Lambda-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon ECS" src="https://custom-icon-badges.demolab.com/badge/ECS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon ECR" src="https://custom-icon-badges.demolab.com/badge/ECR-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon S3" src="https://custom-icon-badges.demolab.com/badge/S3-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon RDS" src="https://custom-icon-badges.demolab.com/badge/RDS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon ElastiCache" src="https://custom-icon-badges.demolab.com/badge/ElastiCache-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon Athena" src="https://custom-icon-badges.demolab.com/badge/Athena-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="AWS Glue" src="https://custom-icon-badges.demolab.com/badge/Glue-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon Bedrock" src="https://custom-icon-badges.demolab.com/badge/Bedrock-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon Q Developer" src="https://custom-icon-badges.demolab.com/badge/Q%20Developer-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon CloudWatch" src="https://custom-icon-badges.demolab.com/badge/CloudWatch-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="AWS CloudTrail" src="https://custom-icon-badges.demolab.com/badge/CloudTrail-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="AWS IoT Core" src="https://custom-icon-badges.demolab.com/badge/IoT%20Core-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon EventBridge" src="https://custom-icon-badges.demolab.com/badge/EventBridge-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon Kinesis" src="https://custom-icon-badges.demolab.com/badge/Kinesis-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon MSK" src="https://custom-icon-badges.demolab.com/badge/MSK-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon SNS" src="https://custom-icon-badges.demolab.com/badge/SNS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Amazon SES" src="https://custom-icon-badges.demolab.com/badge/SES-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
 
 ```python
 🠊 AI | Agentic Coding | LLM Tooling
