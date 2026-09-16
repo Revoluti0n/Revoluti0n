@@ -362,16 +362,13 @@ I can contribute effectively to engineering teams across different markets and e
 ## 📫 How to reach me
 
 <a href="mailto:kelvynxavi@gmail.com"><img height="30" src="https://img.shields.io/badge/-kelvynxavi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
-[//]: # (<a href="mailto:kelvyn.xavier@lamplightlogistics.com"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-@LamplightLogistics-DD914E?style=for-the-badge&logo=mail&logoColor=white"/></a>)
-
-[//]: # (<a href="mailto:kelvyn@laepi.com.br"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-@LAEPI-7766d7?style=for-the-badge&logo=mail&logoColor=white"/></a>)
-
 <a href="https://www.linkedin.com/in/kelvynxavier/" target="_blank"><img height="31" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D"/></a>
 <a href="https://instagram.com/kelvynxavier"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/kelvynxavi"><img height="31" src="https://img.shields.io/badge/-Telegram-%2331a6dc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-</br>
+[//]: # (<a href="mailto:kelvyn.xavier@lamplightlogistics.com"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-@LamplightLogistics-DD914E?style=for-the-badge&logo=mail&logoColor=white"/></a>)
+
+[//]: # (<a href="mailto:kelvyn@laepi.com.br"><img height="30" src="https://custom-icon-badges.demolab.com/badge/-@LAEPI-7766d7?style=for-the-badge&logo=mail&logoColor=white"/></a>)
 
 <a href="https://www.google.com/maps/place/Florian%C3%B3polis,+SC/@-27.5715955,-48.4702792,10z/data=!3m1!4b1!4m6!3m5!1s0x9527394eb2c632d7:0x81bc550b6a04c746!8m2!3d-27.5948036!4d-48.5569286!16s%2Fg%2F11bc6xlppd?entry=ttu"><img src="https://custom-icon-badges.demolab.com/badge/Florianópolis,_SC-BR-5fa55c?style=for-the-badge&logo=location&logoColor=white" height=25/></a>
 
