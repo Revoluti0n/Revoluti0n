@@ -42,11 +42,14 @@
 
 </details>
 
----
+[//]: # (---)
 
-```python
-> I'm lazy, so I automate things to avoid doing manual tasks lol
-```
+[//]: # ()
+[//]: # (```python)
+
+[//]: # (> I'm lazy, so I automate things to avoid doing manual tasks lol)
+
+[//]: # (```)
 
 ---
 
