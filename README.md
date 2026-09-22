@@ -60,6 +60,7 @@
 - DevOps Engineering
 - Cloud Engineering
 - Data Engineering
+- Artificial Intelligence
 - Blockchain
 - Cryptography / Cryptocurrencies
 ```
