@@ -223,8 +223,8 @@
 ```
 
 <a href="https://github.com/Revoluti0n"><img alt="OpenAI Codex" src="https://custom-icon-badges.demolab.com/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Copilot" src="https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Copilot" src="https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Gemini Code Assist" src="https://img.shields.io/badge/Gemini%20Code%20Assist-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="RAG" src="https://custom-icon-badges.demolab.com/badge/RAG-5B5BD6?style=for-the-badge&logo=brain&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="SDD" src="https://custom-icon-badges.demolab.com/badge/SDD-6F42C1?style=for-the-badge&logo=workflow&logoColor=white"/></a>
