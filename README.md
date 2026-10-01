@@ -87,6 +87,7 @@
 <a href="https://github.com/Revoluti0n"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Justfile" src="https://img.shields.io/badge/Justfile-222222?style=for-the-badge&logo=just&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="RegEx" src="https://custom-icon-badges.demolab.com/badge/RegEx-2F4F4F?style=for-the-badge&logo=regex&logoColor=white"/></a>
 
 ```python
