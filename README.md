@@ -149,9 +149,10 @@
 <a href="https://github.com/Revoluti0n"><img alt="Playwright" src="https://custom-icon-badges.demolab.com/badge/Playwright-A30000?style=for-the-badge&logo=playwright&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="pytest" src="https://img.shields.io/badge/pytest-FF9800?style=for-the-badge&logo=pytest&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="bandit" src="https://custom-icon-badges.demolab.com/badge/bandit-222222?style=for-the-badge&logo=shield&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Deptry" src="https://custom-icon-badges.demolab.com/badge/Deptry-00ADD8?style=for-the-badge&logo=package&logoColor=white"/></a>
+<a href="https://github.com/Revoluti0n"><img alt="Ruff" src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="flake8" src="https://custom-icon-badges.demolab.com/badge/flake8-3776AB?style=for-the-badge&logo=check&logoColor=white"/></a>
 <a href="https://github.com/Revoluti0n"><img alt="pycodestyle" src="https://custom-icon-badges.demolab.com/badge/pycodestyle-37814A?style=for-the-badge&logo=code&logoColor=white"/></a>
-<a href="https://github.com/Revoluti0n"><img alt="Deptry" src="https://custom-icon-badges.demolab.com/badge/Deptry-00ADD8?style=for-the-badge&logo=package&logoColor=white"/></a>
 
 ```python
 🠊 Messaging | Event Streaming | Realtime
